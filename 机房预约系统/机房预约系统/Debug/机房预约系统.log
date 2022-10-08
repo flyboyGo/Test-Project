@@ -1,0 +1,3 @@
+﻿  Teacher.cpp
+D:\VisualStudioWorkPlace\机房预约系统\机房预约系统\Teacher.cpp(119,29): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.vcxproj -> D:\VisualStudioWorkPlace\机房预约系统\Debug\机房预约系统.exe
